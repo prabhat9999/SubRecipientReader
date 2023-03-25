@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubRecipientTracker", "SubRecipientTracker\SubRecipientTracker.csproj", "{4657EFF5-21C4-420A-A715-AD2AAC08E753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubRecipientTrackerMsTest", "SubRecipientTrackerMsTest\SubRecipientTrackerMsTest.csproj", "{65F87744-22B3-491D-B637-9FC137B4B380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4657EFF5-21C4-420A-A715-AD2AAC08E753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4657EFF5-21C4-420A-A715-AD2AAC08E753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4657EFF5-21C4-420A-A715-AD2AAC08E753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4657EFF5-21C4-420A-A715-AD2AAC08E753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F87744-22B3-491D-B637-9FC137B4B380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F87744-22B3-491D-B637-9FC137B4B380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F87744-22B3-491D-B637-9FC137B4B380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F87744-22B3-491D-B637-9FC137B4B380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6193A787-DE68-47FB-A728-90C5A6206FA2}
+	EndGlobalSection
+EndGlobal
